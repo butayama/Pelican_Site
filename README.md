@@ -1,2 +1,2 @@
 # Pelican_Site
-Website to inform about software my projects
+Website to inform about my software projects
